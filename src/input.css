@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header-link {
+	@apply dark:text-header-btn-light dark:hover:border-stone-200 dark:hover:text-stone-200 transition-all duration-300 inline-block py-5 px-3 border-b-2 border-transparent text-main-text hover:text-header-btn hover:border-header-btn
+}
+
+.header-btn {
+	@apply dark:text-stone-200 dark:hover:text-header-btn-dark dark:font-medium dark:hover:border-header-btn-light dark:hover:bg-header-btn transition-all duration-300 ml-2 py-1 px-3 border-2 rounded-full uppercase border-header-btn text-header-btn hover:text-stone-100 hover:bg-header-btn-dark hover:shadow-header-btn-dark hover:border-header-btn-dark hover:shadow-lg focus:outline-none focus:ring-header-btn-dark
+}
+
+@layer components {
+	.pagination {
+		@apply dark:text-stone-200 transition-all duration-300 inline-block py-1 px-3 border-y border-r border-main-text text-main-text hover:bg-header-btn-light hover:text-stone-200
+	}
+}
