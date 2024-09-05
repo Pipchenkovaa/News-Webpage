@@ -717,8 +717,8 @@ video {
   margin-top: 1.25rem;
 }
 
-.mt-6 {
-  margin-top: 1.5rem;
+.mb-7 {
+  margin-bottom: 1.75rem;
 }
 
 .block {
@@ -795,6 +795,10 @@ video {
 
 .w-full {
   width: 100%;
+}
+
+.w-48 {
+  width: 12rem;
 }
 
 .max-w-screen-xl {
@@ -951,10 +955,6 @@ video {
   padding: 1rem;
 }
 
-.p-5 {
-  padding: 1.25rem;
-}
-
 .px-1 {
   padding-left: 0.25rem;
   padding-right: 0.25rem;
@@ -1012,14 +1012,6 @@ video {
 
 .py-5 {
   padding-top: 1.25rem;
-  padding-bottom: 1.25rem;
-}
-
-.pt-5 {
-  padding-top: 1.25rem;
-}
-
-.pb-5 {
   padding-bottom: 1.25rem;
 }
 
