@@ -7,7 +7,7 @@ function themeChange() {
 }
 
 window.addEventListener(
-	'DOMContentLoaded',
+	'DOMContentLoaded', 
 	() => {
 		const savedTheme = localStorage.getItem('theme');
 		if (savedTheme) {
