@@ -14,7 +14,7 @@ This project is a fully responsive news website, built using the Tailwind CSS fr
 <li><b>«images/»</b> contains image assets used on the website / содержит использованные в проекте изображения</li>
 
 <h3> <b> Built With / Использованные технологии </b> </h3>
-HTML5 / CSS3 / Tailwind CSS 
+HTML5 / CSS3 / JavaScript (ES6+) / Tailwind CSS 
 
 <h3> <b> Run this project locally / Для запуска проекта локально: </b> </h3>
 
