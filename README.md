@@ -1,5 +1,5 @@
-<h1> News Website / Новостной сайт </h1>
-This project is a fully responsive news website, built using the Tailwind CSS framework as the main styling tool.
+<h1> News Webpage / Новостная веб-страница </h1>
+This project is a fully responsive news webpage, built using the Tailwind CSS framework as the main styling tool.
 
 <br>Данный проект представляет собой полностью адаптивную страницу новостного сайта, созданную преимущественно при помощи Tailwind CSS для демонстрации возможностей данного CSS-фреймфорка.
 
@@ -18,8 +18,8 @@ HTML5 / CSS3 / JavaScript (ES6+) / Tailwind CSS
 
 <h3> <b> Run this project locally / Для запуска проекта локально: </b> </h3>
 
-1) Clone the repository / Клонируем репозиторий: `git clone https://github.com/Pipchenkovaa/News-Website.git`<br>
-2) Navigate to the project directory / Переходим в директорию проекта: `cd News-Website`<br>
+1) Clone the repository / Клонируем репозиторий: `git clone https://github.com/Pipchenkovaa/News-Webpage.git`<br>
+2) Navigate to the project directory / Переходим в директорию проекта: `cd News-Webpage`<br>
 3) Install dependencies / Устанавливаем необходимые модули и пакеты: `npm install`<br>
 4) Start the development server / Запускаем скрипт для сборки JavaScript модулей: `npm start`<br>
 5) Open the project in your browser / Открываем проект локально в браузере: `http://localhost:3000`<br>
